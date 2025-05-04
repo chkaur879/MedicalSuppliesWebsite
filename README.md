@@ -1,23 +1,21 @@
-# 🏥 Singh Medical Supplies Website
+# 🩺 Singh Medical Supplies – Firebase Web App
 
-This is a static website built with **HTML**, **CSS**, and **JavaScript**, designed for **Singh Medical Supplies** and hosted on **Firebase Hosting**. The application uses **Firebase Realtime Database** to store and manage dynamic data.
+A responsive website for Singh Medical Supplies, built using **HTML**, **CSS**, and **JavaScript**. Hosted on **Firebase Hosting** and powered by **Firebase Firestore** to collect and store contact form submissions.
 
 ## 🌐 Live Site
 
-🔗 [Visit Now](https://singhmedicalsupplies.com/)
+👉 [https://singhmedicalsupplies.com](https://singhmedicalsupplies.com)
 
 ## 🚀 Features
 
-- Responsive and clean layout using HTML & CSS
-- Firebase Hosting for fast and secure delivery
-- Firebase Realtime Database for dynamic content updates
-- JavaScript-powered interactivity and database integration
-- Optimized for both desktop and mobile devices
+- Hosted securely on Firebase Hosting
+- Contact form integrated with Firebase Firestore
+- Form fallback integration for email notifications (e.g., Formspree)
+- Modern, responsive design using plain HTML, CSS, and JavaScript
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML5 + CSS3 + JavaScript (Vanilla)
 - Firebase Hosting
-- Firebase Realtime Database
+- Firebase Firestore
+- Formspree or similar third-party service for email fallback
