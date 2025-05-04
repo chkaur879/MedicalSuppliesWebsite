@@ -1,0 +1,12 @@
+{
+  "name": "Website",
+  "version": "1.0.0",
+  "description": "Singh medical supplies website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chamanpreet Kaur Sodhi",
+  "license": "ISC"
+}
